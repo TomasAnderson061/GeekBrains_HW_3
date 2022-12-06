@@ -1,0 +1,15 @@
+H:\!!!GeekBrains\HW\SEMINAR31\obj\Debug\net6.0\SEMINAR31.csproj.AssemblyReference.cache
+H:\!!!GeekBrains\HW\SEMINAR31\obj\Debug\net6.0\SEMINAR31.GeneratedMSBuildEditorConfig.editorconfig
+H:\!!!GeekBrains\HW\SEMINAR31\obj\Debug\net6.0\SEMINAR31.AssemblyInfoInputs.cache
+H:\!!!GeekBrains\HW\SEMINAR31\obj\Debug\net6.0\SEMINAR31.AssemblyInfo.cs
+H:\!!!GeekBrains\HW\SEMINAR31\obj\Debug\net6.0\SEMINAR31.csproj.CoreCompileInputs.cache
+H:\!!!GeekBrains\HW\SEMINAR31\bin\Debug\net6.0\SEMINAR31.exe
+H:\!!!GeekBrains\HW\SEMINAR31\bin\Debug\net6.0\SEMINAR31.deps.json
+H:\!!!GeekBrains\HW\SEMINAR31\bin\Debug\net6.0\SEMINAR31.runtimeconfig.json
+H:\!!!GeekBrains\HW\SEMINAR31\bin\Debug\net6.0\SEMINAR31.dll
+H:\!!!GeekBrains\HW\SEMINAR31\bin\Debug\net6.0\SEMINAR31.pdb
+H:\!!!GeekBrains\HW\SEMINAR31\obj\Debug\net6.0\SEMINAR31.dll
+H:\!!!GeekBrains\HW\SEMINAR31\obj\Debug\net6.0\refint\SEMINAR31.dll
+H:\!!!GeekBrains\HW\SEMINAR31\obj\Debug\net6.0\SEMINAR31.pdb
+H:\!!!GeekBrains\HW\SEMINAR31\obj\Debug\net6.0\SEMINAR31.genruntimeconfig.cache
+H:\!!!GeekBrains\HW\SEMINAR31\obj\Debug\net6.0\ref\SEMINAR31.dll
